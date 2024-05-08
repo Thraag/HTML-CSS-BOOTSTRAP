@@ -1,0 +1,9 @@
+
+.botonsito {
+    display: flex;
+    justify-content: end;
+}
+
+.fa-square {
+    color: black;
+}
